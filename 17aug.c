@@ -43,3 +43,4 @@ int stoneGameV(int* stoneValue, int stoneValueSize) {
     free(f);
     return result;
 }
+//THANK YOU
