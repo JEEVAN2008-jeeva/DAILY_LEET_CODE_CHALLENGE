@@ -37,4 +37,4 @@ class Solution:
         # Max occurrence of shifting vector is the answer
         # If no shifting vector, then no overlapping at all, return 0
         return max( vectorOccurrence.values() or [0] )
-        
+         
